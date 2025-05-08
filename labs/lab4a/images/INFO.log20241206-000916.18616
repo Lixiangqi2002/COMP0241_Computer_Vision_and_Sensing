@@ -1,0 +1,300 @@
+Log file created at: 2024/12/06 00:09:16
+Running on machine: selina-xiangqi-Legion-R9000P-ARX8
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20241206 00:09:16.303426 125823189255744 misc.cc:44] 
+==============================================================================
+Feature extraction
+==============================================================================
+I20241206 00:09:16.303775 125823067620928 sift.cc:727] Creating SIFT CPU feature extractor
+I20241206 00:09:16.303829 125823057135168 sift.cc:727] Creating SIFT CPU feature extractor
+I20241206 00:09:16.303889 125823046649408 sift.cc:727] Creating SIFT CPU feature extractor
+I20241206 00:09:16.303910 125822943888960 sift.cc:727] Creating SIFT CPU feature extractor
+I20241206 00:09:16.485006 125823036163648 feature_extraction.cc:258] Processed file [1/29]
+I20241206 00:09:16.485048 125823036163648 feature_extraction.cc:261]   Name:            calibration_image_11.jpg
+I20241206 00:09:16.485054 125823036163648 feature_extraction.cc:270]   Dimensions:      1280 x 800
+I20241206 00:09:16.485059 125823036163648 feature_extraction.cc:273]   Camera:          #4 - SIMPLE_RADIAL
+I20241206 00:09:16.485065 125823036163648 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241206 00:09:16.485077 125823036163648 feature_extraction.cc:280]   Features:        1621
+I20241206 00:09:16.503991 125823036163648 feature_extraction.cc:258] Processed file [2/29]
+I20241206 00:09:16.504008 125823036163648 feature_extraction.cc:261]   Name:            calibration_image_10.jpg
+I20241206 00:09:16.504012 125823036163648 feature_extraction.cc:270]   Dimensions:      1280 x 800
+I20241206 00:09:16.504017 125823036163648 feature_extraction.cc:273]   Camera:          #3 - SIMPLE_RADIAL
+I20241206 00:09:16.504022 125823036163648 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241206 00:09:16.504029 125823036163648 feature_extraction.cc:280]   Features:        1179
+I20241206 00:09:16.518627 125823036163648 feature_extraction.cc:258] Processed file [3/29]
+I20241206 00:09:16.518647 125823036163648 feature_extraction.cc:261]   Name:            calibration_image_08.jpg
+I20241206 00:09:16.518652 125823036163648 feature_extraction.cc:270]   Dimensions:      1280 x 800
+I20241206 00:09:16.518656 125823036163648 feature_extraction.cc:273]   Camera:          #1 - SIMPLE_RADIAL
+I20241206 00:09:16.518661 125823036163648 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241206 00:09:16.518671 125823036163648 feature_extraction.cc:280]   Features:        1585
+I20241206 00:09:16.522631 125823036163648 feature_extraction.cc:258] Processed file [4/29]
+I20241206 00:09:16.522648 125823036163648 feature_extraction.cc:261]   Name:            calibration_image_09.jpg
+I20241206 00:09:16.522653 125823036163648 feature_extraction.cc:270]   Dimensions:      1280 x 800
+I20241206 00:09:16.522656 125823036163648 feature_extraction.cc:273]   Camera:          #2 - SIMPLE_RADIAL
+I20241206 00:09:16.522661 125823036163648 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241206 00:09:16.522672 125823036163648 feature_extraction.cc:280]   Features:        1570
+I20241206 00:09:16.630368 125823036163648 feature_extraction.cc:258] Processed file [5/29]
+I20241206 00:09:16.630411 125823036163648 feature_extraction.cc:261]   Name:            calibration_image_13.jpg
+I20241206 00:09:16.630415 125823036163648 feature_extraction.cc:270]   Dimensions:      1280 x 800
+I20241206 00:09:16.630418 125823036163648 feature_extraction.cc:273]   Camera:          #6 - SIMPLE_RADIAL
+I20241206 00:09:16.630423 125823036163648 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241206 00:09:16.630433 125823036163648 feature_extraction.cc:280]   Features:        1462
+I20241206 00:09:16.646032 125823036163648 feature_extraction.cc:258] Processed file [6/29]
+I20241206 00:09:16.646064 125823036163648 feature_extraction.cc:261]   Name:            calibration_image_12.jpg
+I20241206 00:09:16.646069 125823036163648 feature_extraction.cc:270]   Dimensions:      1280 x 800
+I20241206 00:09:16.646073 125823036163648 feature_extraction.cc:273]   Camera:          #5 - SIMPLE_RADIAL
+I20241206 00:09:16.646079 125823036163648 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241206 00:09:16.646090 125823036163648 feature_extraction.cc:280]   Features:        2545
+I20241206 00:09:16.686894 125823036163648 feature_extraction.cc:258] Processed file [7/29]
+I20241206 00:09:16.686943 125823036163648 feature_extraction.cc:261]   Name:            calibration_image_15.jpg
+I20241206 00:09:16.686981 125823036163648 feature_extraction.cc:270]   Dimensions:      1280 x 800
+I20241206 00:09:16.686986 125823036163648 feature_extraction.cc:273]   Camera:          #8 - SIMPLE_RADIAL
+I20241206 00:09:16.686994 125823036163648 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241206 00:09:16.687004 125823036163648 feature_extraction.cc:280]   Features:        1210
+I20241206 00:09:16.700456 125823036163648 feature_extraction.cc:258] Processed file [8/29]
+I20241206 00:09:16.700469 125823036163648 feature_extraction.cc:261]   Name:            calibration_image_14.jpg
+I20241206 00:09:16.700473 125823036163648 feature_extraction.cc:270]   Dimensions:      1280 x 800
+I20241206 00:09:16.700478 125823036163648 feature_extraction.cc:273]   Camera:          #7 - SIMPLE_RADIAL
+I20241206 00:09:16.700483 125823036163648 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241206 00:09:16.700490 125823036163648 feature_extraction.cc:280]   Features:        1400
+I20241206 00:09:16.757729 125823036163648 feature_extraction.cc:258] Processed file [9/29]
+I20241206 00:09:16.757754 125823036163648 feature_extraction.cc:261]   Name:            calibration_image_16.jpg
+I20241206 00:09:16.757759 125823036163648 feature_extraction.cc:270]   Dimensions:      1280 x 800
+I20241206 00:09:16.757763 125823036163648 feature_extraction.cc:273]   Camera:          #9 - SIMPLE_RADIAL
+I20241206 00:09:16.757769 125823036163648 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241206 00:09:16.757779 125823036163648 feature_extraction.cc:280]   Features:        1474
+I20241206 00:09:16.805432 125823036163648 feature_extraction.cc:258] Processed file [10/29]
+I20241206 00:09:16.805489 125823036163648 feature_extraction.cc:261]   Name:            calibration_image_17.jpg
+I20241206 00:09:16.805493 125823036163648 feature_extraction.cc:270]   Dimensions:      1280 x 800
+I20241206 00:09:16.805498 125823036163648 feature_extraction.cc:273]   Camera:          #10 - SIMPLE_RADIAL
+I20241206 00:09:16.805504 125823036163648 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241206 00:09:16.805515 125823036163648 feature_extraction.cc:280]   Features:        1292
+I20241206 00:09:16.831489 125823036163648 feature_extraction.cc:258] Processed file [11/29]
+I20241206 00:09:16.831504 125823036163648 feature_extraction.cc:261]   Name:            calibration_image_19.jpg
+I20241206 00:09:16.831510 125823036163648 feature_extraction.cc:270]   Dimensions:      1280 x 800
+I20241206 00:09:16.831515 125823036163648 feature_extraction.cc:273]   Camera:          #12 - SIMPLE_RADIAL
+I20241206 00:09:16.831532 125823036163648 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241206 00:09:16.831539 125823036163648 feature_extraction.cc:280]   Features:        1704
+I20241206 00:09:16.839845 125823036163648 feature_extraction.cc:258] Processed file [12/29]
+I20241206 00:09:16.839857 125823036163648 feature_extraction.cc:261]   Name:            calibration_image_18.jpg
+I20241206 00:09:16.839862 125823036163648 feature_extraction.cc:270]   Dimensions:      1280 x 800
+I20241206 00:09:16.839866 125823036163648 feature_extraction.cc:273]   Camera:          #11 - SIMPLE_RADIAL
+I20241206 00:09:16.839871 125823036163648 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241206 00:09:16.839878 125823036163648 feature_extraction.cc:280]   Features:        2143
+I20241206 00:09:16.934717 125823036163648 feature_extraction.cc:258] Processed file [13/29]
+I20241206 00:09:16.934745 125823036163648 feature_extraction.cc:261]   Name:            calibration_image_23.jpg
+I20241206 00:09:16.934750 125823036163648 feature_extraction.cc:270]   Dimensions:      1280 x 800
+I20241206 00:09:16.934754 125823036163648 feature_extraction.cc:273]   Camera:          #16 - SIMPLE_RADIAL
+I20241206 00:09:16.934759 125823036163648 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241206 00:09:16.934767 125823036163648 feature_extraction.cc:280]   Features:        712
+I20241206 00:09:16.944163 125823036163648 feature_extraction.cc:258] Processed file [14/29]
+I20241206 00:09:16.944200 125823036163648 feature_extraction.cc:261]   Name:            calibration_image_20.jpg
+I20241206 00:09:16.944205 125823036163648 feature_extraction.cc:270]   Dimensions:      1280 x 800
+I20241206 00:09:16.944210 125823036163648 feature_extraction.cc:273]   Camera:          #13 - SIMPLE_RADIAL
+I20241206 00:09:16.944216 125823036163648 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241206 00:09:16.944221 125823036163648 feature_extraction.cc:280]   Features:        1588
+I20241206 00:09:16.969094 125823036163648 feature_extraction.cc:258] Processed file [15/29]
+I20241206 00:09:16.969134 125823036163648 feature_extraction.cc:261]   Name:            calibration_image_21.jpg
+I20241206 00:09:16.969140 125823036163648 feature_extraction.cc:270]   Dimensions:      1280 x 800
+I20241206 00:09:16.969144 125823036163648 feature_extraction.cc:273]   Camera:          #14 - SIMPLE_RADIAL
+I20241206 00:09:16.969148 125823036163648 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241206 00:09:16.969158 125823036163648 feature_extraction.cc:280]   Features:        1277
+I20241206 00:09:17.008807 125823036163648 feature_extraction.cc:258] Processed file [16/29]
+I20241206 00:09:17.008845 125823036163648 feature_extraction.cc:261]   Name:            calibration_image_22.jpg
+I20241206 00:09:17.008851 125823036163648 feature_extraction.cc:270]   Dimensions:      1280 x 800
+I20241206 00:09:17.008854 125823036163648 feature_extraction.cc:273]   Camera:          #15 - SIMPLE_RADIAL
+I20241206 00:09:17.008858 125823036163648 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241206 00:09:17.008868 125823036163648 feature_extraction.cc:280]   Features:        1439
+I20241206 00:09:17.109051 125823036163648 feature_extraction.cc:258] Processed file [17/29]
+I20241206 00:09:17.109066 125823036163648 feature_extraction.cc:261]   Name:            calibration_image_24.jpg
+I20241206 00:09:17.109072 125823036163648 feature_extraction.cc:270]   Dimensions:      1280 x 800
+I20241206 00:09:17.109077 125823036163648 feature_extraction.cc:273]   Camera:          #17 - SIMPLE_RADIAL
+I20241206 00:09:17.109080 125823036163648 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241206 00:09:17.109088 125823036163648 feature_extraction.cc:280]   Features:        1487
+I20241206 00:09:17.144228 125823036163648 feature_extraction.cc:258] Processed file [18/29]
+I20241206 00:09:17.144253 125823036163648 feature_extraction.cc:261]   Name:            calibration_image_25.jpg
+I20241206 00:09:17.144258 125823036163648 feature_extraction.cc:270]   Dimensions:      1280 x 800
+I20241206 00:09:17.144262 125823036163648 feature_extraction.cc:273]   Camera:          #18 - SIMPLE_RADIAL
+I20241206 00:09:17.144268 125823036163648 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241206 00:09:17.144279 125823036163648 feature_extraction.cc:280]   Features:        1833
+I20241206 00:09:17.150631 125823036163648 feature_extraction.cc:258] Processed file [19/29]
+I20241206 00:09:17.150642 125823036163648 feature_extraction.cc:261]   Name:            calibration_image_26.jpg
+I20241206 00:09:17.150646 125823036163648 feature_extraction.cc:270]   Dimensions:      1280 x 800
+I20241206 00:09:17.150650 125823036163648 feature_extraction.cc:273]   Camera:          #19 - SIMPLE_RADIAL
+I20241206 00:09:17.150652 125823036163648 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241206 00:09:17.150658 125823036163648 feature_extraction.cc:280]   Features:        1614
+I20241206 00:09:17.191208 125823036163648 feature_extraction.cc:258] Processed file [20/29]
+I20241206 00:09:17.191257 125823036163648 feature_extraction.cc:261]   Name:            calibration_image_27.jpg
+I20241206 00:09:17.191263 125823036163648 feature_extraction.cc:270]   Dimensions:      1280 x 800
+I20241206 00:09:17.191267 125823036163648 feature_extraction.cc:273]   Camera:          #20 - SIMPLE_RADIAL
+I20241206 00:09:17.191271 125823036163648 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241206 00:09:17.191315 125823036163648 feature_extraction.cc:280]   Features:        1574
+I20241206 00:09:17.315175 125823036163648 feature_extraction.cc:258] Processed file [21/29]
+I20241206 00:09:17.315207 125823036163648 feature_extraction.cc:261]   Name:            calibration_image_28.jpg
+I20241206 00:09:17.315212 125823036163648 feature_extraction.cc:270]   Dimensions:      1280 x 800
+I20241206 00:09:17.315215 125823036163648 feature_extraction.cc:273]   Camera:          #21 - SIMPLE_RADIAL
+I20241206 00:09:17.315219 125823036163648 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241206 00:09:17.315227 125823036163648 feature_extraction.cc:280]   Features:        1937
+I20241206 00:09:17.328966 125823036163648 feature_extraction.cc:258] Processed file [22/29]
+I20241206 00:09:17.328978 125823036163648 feature_extraction.cc:261]   Name:            calibration_image_29.jpg
+I20241206 00:09:17.328982 125823036163648 feature_extraction.cc:270]   Dimensions:      1280 x 800
+I20241206 00:09:17.328984 125823036163648 feature_extraction.cc:273]   Camera:          #22 - SIMPLE_RADIAL
+I20241206 00:09:17.328988 125823036163648 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241206 00:09:17.328993 125823036163648 feature_extraction.cc:280]   Features:        1563
+I20241206 00:09:17.332308 125823036163648 feature_extraction.cc:258] Processed file [23/29]
+I20241206 00:09:17.332323 125823036163648 feature_extraction.cc:261]   Name:            calibration_image_30.jpg
+I20241206 00:09:17.332328 125823036163648 feature_extraction.cc:270]   Dimensions:      1280 x 800
+I20241206 00:09:17.332332 125823036163648 feature_extraction.cc:273]   Camera:          #23 - SIMPLE_RADIAL
+I20241206 00:09:17.332336 125823036163648 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241206 00:09:17.332343 125823036163648 feature_extraction.cc:280]   Features:        1549
+I20241206 00:09:17.371977 125823036163648 feature_extraction.cc:258] Processed file [24/29]
+I20241206 00:09:17.372014 125823036163648 feature_extraction.cc:261]   Name:            calibration_image_31.jpg
+I20241206 00:09:17.372019 125823036163648 feature_extraction.cc:270]   Dimensions:      1280 x 800
+I20241206 00:09:17.372022 125823036163648 feature_extraction.cc:273]   Camera:          #24 - SIMPLE_RADIAL
+I20241206 00:09:17.372028 125823036163648 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241206 00:09:17.372038 125823036163648 feature_extraction.cc:280]   Features:        1683
+I20241206 00:09:17.464984 125823036163648 feature_extraction.cc:258] Processed file [25/29]
+I20241206 00:09:17.465014 125823036163648 feature_extraction.cc:261]   Name:            calibration_image_32.jpg
+I20241206 00:09:17.465018 125823036163648 feature_extraction.cc:270]   Dimensions:      1280 x 800
+I20241206 00:09:17.465022 125823036163648 feature_extraction.cc:273]   Camera:          #25 - SIMPLE_RADIAL
+I20241206 00:09:17.465027 125823036163648 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241206 00:09:17.465036 125823036163648 feature_extraction.cc:280]   Features:        1351
+I20241206 00:09:17.470410 125823036163648 feature_extraction.cc:258] Processed file [26/29]
+I20241206 00:09:17.470421 125823036163648 feature_extraction.cc:261]   Name:            calibration_image_33.jpg
+I20241206 00:09:17.470424 125823036163648 feature_extraction.cc:270]   Dimensions:      1280 x 800
+I20241206 00:09:17.470427 125823036163648 feature_extraction.cc:273]   Camera:          #26 - SIMPLE_RADIAL
+I20241206 00:09:17.470430 125823036163648 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241206 00:09:17.470435 125823036163648 feature_extraction.cc:280]   Features:        1173
+I20241206 00:09:17.521437 125823036163648 feature_extraction.cc:258] Processed file [27/29]
+I20241206 00:09:17.521448 125823036163648 feature_extraction.cc:261]   Name:            calibration_image_34.jpg
+I20241206 00:09:17.521450 125823036163648 feature_extraction.cc:270]   Dimensions:      1280 x 800
+I20241206 00:09:17.521454 125823036163648 feature_extraction.cc:273]   Camera:          #27 - SIMPLE_RADIAL
+I20241206 00:09:17.521471 125823036163648 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241206 00:09:17.521476 125823036163648 feature_extraction.cc:280]   Features:        1634
+I20241206 00:09:17.545934 125823036163648 feature_extraction.cc:258] Processed file [28/29]
+I20241206 00:09:17.545944 125823036163648 feature_extraction.cc:261]   Name:            calibration_image_35.jpg
+I20241206 00:09:17.545946 125823036163648 feature_extraction.cc:270]   Dimensions:      1280 x 800
+I20241206 00:09:17.545950 125823036163648 feature_extraction.cc:273]   Camera:          #28 - SIMPLE_RADIAL
+I20241206 00:09:17.545952 125823036163648 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241206 00:09:17.545957 125823036163648 feature_extraction.cc:280]   Features:        1581
+I20241206 00:09:17.626941 125823036163648 feature_extraction.cc:258] Processed file [29/29]
+I20241206 00:09:17.626954 125823036163648 feature_extraction.cc:261]   Name:            calibration_image_36.jpg
+I20241206 00:09:17.626959 125823036163648 feature_extraction.cc:270]   Dimensions:      1280 x 800
+I20241206 00:09:17.626963 125823036163648 feature_extraction.cc:273]   Camera:          #29 - SIMPLE_RADIAL
+I20241206 00:09:17.626967 125823036163648 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241206 00:09:17.626973 125823036163648 feature_extraction.cc:280]   Features:        1499
+I20241206 00:09:17.630946 125823189255744 timer.cc:91] Elapsed time: 0.022 [minutes]
+I20241206 00:09:17.635674 125823189255744 misc.cc:44] 
+==============================================================================
+Feature matching
+==============================================================================
+I20241206 00:09:17.635864 125822943888960 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.635865 125823036163648 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.635883 125823046649408 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.635928 125823178769984 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.635965 125823168284224 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.635996 125823157798464 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.636017 125823078106688 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.636037 125823067620928 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.636077 125823057135168 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.636142 125823025677888 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.636187 125822933403200 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.636204 125822922917440 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.636288 125822912431680 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.636321 125822901945920 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.636402 125822809671232 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.636410 125822891460160 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.636467 125822799185472 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.636476 125822788699712 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.636544 125822778213952 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.636573 125822767728192 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.636605 125822757242432 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.636640 125822675453504 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.636694 125822654481984 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.636692 125822664967744 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.636726 125822643996224 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.636763 125822633510464 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.636768 125822623024704 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.636785 125822474126912 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.636806 125822463641152 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.636822 125822453155392 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.636859 125822442669632 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.636869 125822432183872 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241206 00:09:17.637442 125823189255744 pairing.cc:168] Generating exhaustive image pairs...
+I20241206 00:09:17.637456 125823189255744 pairing.cc:201] Matching block [1/1, 1/1]
+I20241206 00:09:19.159961 125823189255744 feature_matching.cc:46] in 1.523s
+I20241206 00:09:19.160784 125823189255744 timer.cc:91] Elapsed time: 0.025 [minutes]
+I20241206 00:09:19.168368 125828040849216 incremental_pipeline.cc:237] Loading database
+I20241206 00:09:19.168790 125828040849216 database_cache.cc:66] Loading cameras...
+I20241206 00:09:19.168811 125828040849216 database_cache.cc:76]  29 in 0.000s
+I20241206 00:09:19.168821 125828040849216 database_cache.cc:84] Loading matches...
+I20241206 00:09:19.169125 125828040849216 database_cache.cc:89]  193 in 0.000s
+I20241206 00:09:19.169132 125828040849216 database_cache.cc:105] Loading images...
+I20241206 00:09:19.170278 125828040849216 database_cache.cc:153]  29 in 0.001s (connected 29)
+I20241206 00:09:19.170286 125828040849216 database_cache.cc:164] Loading pose priors...
+I20241206 00:09:19.170335 125828040849216 database_cache.cc:175]  0 in 0.000s
+I20241206 00:09:19.170340 125828040849216 database_cache.cc:184] Building correspondence graph...
+I20241206 00:09:19.172213 125828040849216 database_cache.cc:210]  in 0.002s (ignored 0)
+I20241206 00:09:19.172231 125828040849216 timer.cc:91] Elapsed time: 0.000 [minutes]
+I20241206 00:09:19.172716 125828040849216 incremental_pipeline.cc:282] Finding good initial image pair
+I20241206 00:09:19.198660 125828040849216 incremental_pipeline.cc:306] Initializing with image pair #20 and #24
+I20241206 00:09:19.198961 125828040849216 incremental_pipeline.cc:311] Global bundle adjustment
+I20241206 00:09:19.240705 125828040849216 incremental_pipeline.cc:390] Registering image #23 (3)
+I20241206 00:09:19.240714 125828040849216 incremental_pipeline.cc:393] => Image sees 86 / 693 points
+I20241206 00:09:19.314373 125828040849216 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241206 00:09:19.429587 125828040849216 incremental_pipeline.cc:390] Registering image #25 (4)
+I20241206 00:09:19.429598 125828040849216 incremental_pipeline.cc:393] => Image sees 200 / 533 points
+I20241206 00:09:19.459227 125828040849216 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241206 00:09:19.511430 125828040849216 incremental_pipeline.cc:390] Registering image #22 (5)
+I20241206 00:09:19.511439 125828040849216 incremental_pipeline.cc:393] => Image sees 246 / 767 points
+I20241206 00:09:19.597106 125828040849216 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241206 00:09:19.631219 125828040849216 incremental_pipeline.cc:390] Registering image #19 (6)
+I20241206 00:09:19.631227 125828040849216 incremental_pipeline.cc:393] => Image sees 372 / 769 points
+I20241206 00:09:19.719221 125828040849216 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241206 00:09:19.776744 125828040849216 incremental_pipeline.cc:390] Registering image #18 (7)
+I20241206 00:09:19.776751 125828040849216 incremental_pipeline.cc:393] => Image sees 374 / 749 points
+I20241206 00:09:19.835580 125828040849216 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241206 00:09:19.926518 125828040849216 incremental_pipeline.cc:390] Registering image #21 (8)
+I20241206 00:09:19.926535 125828040849216 incremental_pipeline.cc:393] => Image sees 366 / 584 points
+I20241206 00:09:20.015148 125828040849216 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241206 00:09:20.182816 125828040849216 incremental_pipeline.cc:390] Registering image #17 (9)
+I20241206 00:09:20.182844 125828040849216 incremental_pipeline.cc:393] => Image sees 359 / 598 points
+I20241206 00:09:20.249044 125828040849216 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241206 00:09:20.370605 125828040849216 incremental_pipeline.cc:390] Registering image #26 (10)
+I20241206 00:09:20.370623 125828040849216 incremental_pipeline.cc:393] => Image sees 186 / 434 points
+I20241206 00:09:20.431724 125828040849216 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241206 00:09:20.529478 125828040849216 incremental_pipeline.cc:390] Registering image #29 (11)
+I20241206 00:09:20.529495 125828040849216 incremental_pipeline.cc:393] => Image sees 172 / 776 points
+I20241206 00:09:20.584493 125828040849216 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241206 00:09:20.708739 125828040849216 incremental_pipeline.cc:390] Registering image #27 (12)
+I20241206 00:09:20.708798 125828040849216 incremental_pipeline.cc:393] => Image sees 250 / 814 points
+I20241206 00:09:20.780604 125828040849216 incremental_pipeline.cc:390] Registering image #28 (13)
+I20241206 00:09:20.780656 125828040849216 incremental_pipeline.cc:393] => Image sees 273 / 843 points
+I20241206 00:09:20.835232 125828040849216 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241206 00:09:21.022877 125828040849216 incremental_pipeline.cc:390] Registering image #16 (14)
+I20241206 00:09:21.022967 125828040849216 incremental_pipeline.cc:393] => Image sees 131 / 472 points
+I20241206 00:09:21.082162 125828040849216 incremental_pipeline.cc:390] Registering image #15 (15)
+I20241206 00:09:21.082200 125828040849216 incremental_pipeline.cc:393] => Image sees 131 / 554 points
+I20241206 00:09:21.132911 125828040849216 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241206 00:09:21.222119 125828040849216 incremental_pipeline.cc:390] Registering image #14 (16)
+I20241206 00:09:21.222134 125828040849216 incremental_pipeline.cc:393] => Image sees 190 / 451 points
+I20241206 00:09:21.272696 125828040849216 incremental_pipeline.cc:390] Registering image #11 (17)
+I20241206 00:09:21.272710 125828040849216 incremental_pipeline.cc:393] => Image sees 179 / 517 points
+I20241206 00:09:21.321728 125828040849216 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241206 00:09:21.443359 125828040849216 incremental_pipeline.cc:390] Registering image #12 (18)
+I20241206 00:09:21.443373 125828040849216 incremental_pipeline.cc:393] => Image sees 201 / 639 points
+I20241206 00:09:21.502030 125828040849216 incremental_pipeline.cc:390] Registering image #10 (19)
+I20241206 00:09:21.502043 125828040849216 incremental_pipeline.cc:393] => Image sees 215 / 491 points
+I20241206 00:09:21.546716 125828040849216 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241206 00:09:21.837607 125828040849216 incremental_pipeline.cc:390] Registering image #7 (20)
+I20241206 00:09:21.837623 125828040849216 incremental_pipeline.cc:393] => Image sees 153 / 443 points
+I20241206 00:09:21.875465 125828040849216 incremental_pipeline.cc:390] Registering image #9 (21)
+I20241206 00:09:21.875477 125828040849216 incremental_pipeline.cc:393] => Image sees 156 / 308 points
+I20241206 00:09:21.922086 125828040849216 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241206 00:09:22.080750 125828040849216 incremental_pipeline.cc:390] Registering image #8 (22)
+I20241206 00:09:22.080759 125828040849216 incremental_pipeline.cc:393] => Image sees 177 / 482 points
+I20241206 00:09:22.128801 125828040849216 incremental_pipeline.cc:390] Registering image #6 (23)
+I20241206 00:09:22.128821 125828040849216 incremental_pipeline.cc:393] => Image sees 134 / 524 points
+I20241206 00:09:22.167220 125828040849216 incremental_pipeline.cc:390] Registering image #5 (24)
+I20241206 00:09:22.167233 125828040849216 incremental_pipeline.cc:393] => 

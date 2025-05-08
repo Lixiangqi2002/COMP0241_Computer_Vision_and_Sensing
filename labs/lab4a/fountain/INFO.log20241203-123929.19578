@@ -1,0 +1,5 @@
+Log file created at: 2024/12/03 12:39:29
+Running on machine: selina-xiangqi-Legion-R9000P-ARX8
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20241203 12:39:29.872604 126645939942528 demo_colmap.py:run:69] Downloading the data.
