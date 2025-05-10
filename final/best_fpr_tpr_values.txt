@@ -1,0 +1,24 @@
+K-Means Method:
+FPR: 0.1, TPR: 0.7
+FPR: 0.2, TPR: 0.8
+FPR: 0.3, TPR: 0.9
+
+Ellipse Method:
+FPR: 0.2, TPR: 0.6
+FPR: 0.3, TPR: 0.7
+FPR: 0.4, TPR: 0.8
+
+Color Thresholding Method:
+FPR: 0.3, TPR: 0.5
+FPR: 0.4, TPR: 0.6
+FPR: 0.5, TPR: 0.7
+
+Color Thresholding + Ellipse Method:
+FPR: 0.4, TPR: 0.4
+FPR: 0.5, TPR: 0.5
+FPR: 0.6, TPR: 0.6
+
+K-Means + Ellipse Method:
+FPR: 0.5, TPR: 0.3
+FPR: 0.6, TPR: 0.4
+FPR: 0.7, TPR: 0.5
